@@ -1,0 +1,10 @@
+{
+  "name": "github-comments-system",
+  "version": "1.0.0",
+  "description": "Sistema de comentários e likes com GitHub Issues",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
